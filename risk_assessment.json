@@ -1,0 +1,184 @@
+{
+    "Stocks": {
+        "Low": [
+            {
+                "name": "iАРТГЕН ао",
+                "ticker": "ABIO",
+                "dividend": {
+                    "yield": 84.16,
+                    "frequency": "SUR"
+                },
+                "price": 81.12
+            },
+            {
+                "name": "АбрауДюрсо",
+                "ticker": "ABRD",
+                "dividend": {
+                    "yield": 189.2,
+                    "frequency": "SUR"
+                },
+                "price": 186.8
+            },
+            {
+                "name": "АСКО ао",
+                "ticker": "ACKO",
+                "dividend": {
+                    "yield": 3.64,
+                    "frequency": "SUR"
+                },
+                "price": null
+            },
+            {
+                "name": "Система ао",
+                "ticker": "AFKS",
+                "dividend": {
+                    "yield": 12.816,
+                    "frequency": "SUR"
+                },
+                "price": 12.298
+            },
+            {
+                "name": "Аэрофлот",
+                "ticker": "AFLT",
+                "dividend": {
+                    "yield": 55.8,
+                    "frequency": "SUR"
+                },
+                "price": 53.73
+            },
+            {
+                "name": "AGRO-гдр",
+                "ticker": "AGRO",
+                "dividend": {
+                    "yield": 1147,
+                    "frequency": "USD"
+                },
+                "price": 1150.8
+            },
+            {
+                "name": "Акрон",
+                "ticker": "AKRN",
+                "dividend": {
+                    "yield": 16884,
+                    "frequency": "SUR"
+                },
+                "price": 16954
+            },
+            {
+                "name": "АЛРОСА ао",
+                "ticker": "ALRS",
+                "dividend": {
+                    "yield": 47.79,
+                    "frequency": "SUR"
+                },
+                "price": 46.6
+            },
+            {
+                "name": "АшинскийМЗ",
+                "ticker": "AMEZ",
+                "dividend": {
+                    "yield": 80.52,
+                    "frequency": "SUR"
+                },
+                "price": 77.78
+            },
+            {
+                "name": "АПРИ",
+                "ticker": "APRI",
+                "dividend": {
+                    "yield": 10.091,
+                    "frequency": "SUR"
+                },
+                "price": 10.084
+            }
+        ],
+        "Medium": [],
+        "High": []
+    },
+    "Bonds": {
+        "Low": [],
+        "Medium": [
+            {
+                "name": "ОФЗ 25085",
+                "price": 1000,
+                "coupon": {
+                    "size": 182,
+                    "frequency": 15000000
+                }
+            },
+            {
+                "name": "ОФЗ 26207",
+                "price": 1000,
+                "coupon": {
+                    "size": 182,
+                    "frequency": 450000000
+                }
+            },
+            {
+                "name": "ОФЗ 26212",
+                "price": 1000,
+                "coupon": {
+                    "size": 182,
+                    "frequency": 358927588
+                }
+            },
+            {
+                "name": "ОФЗ 26218",
+                "price": 1000,
+                "coupon": {
+                    "size": 182,
+                    "frequency": 250000000
+                }
+            },
+            {
+                "name": "ОФЗ 26219",
+                "price": 1000,
+                "coupon": {
+                    "size": 182,
+                    "frequency": 450000000
+                }
+            },
+            {
+                "name": "ОФЗ 26221",
+                "price": 1000,
+                "coupon": {
+                    "size": 182,
+                    "frequency": 350000000
+                }
+            },
+            {
+                "name": "ОФЗ 26224",
+                "price": 1000,
+                "coupon": {
+                    "size": 182,
+                    "frequency": 350000000
+                }
+            },
+            {
+                "name": "ОФЗ 26225",
+                "price": 1000,
+                "coupon": {
+                    "size": 182,
+                    "frequency": 350000000
+                }
+            },
+            {
+                "name": "ОФЗ 26226",
+                "price": 1000,
+                "coupon": {
+                    "size": 182,
+                    "frequency": 450000000
+                }
+            },
+            {
+                "name": "ОФЗ 26228",
+                "price": 1000,
+                "coupon": {
+                    "size": 182,
+                    "frequency": 450000000
+                }
+            }
+        ],
+        "High": []
+    }
+}
