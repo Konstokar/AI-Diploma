@@ -5,19 +5,19 @@
                 "name": "iАРТГЕН ао",
                 "ticker": "ABIO",
                 "dividend": {
-                    "yield": 84.16,
+                    "yield": 89.92,
                     "frequency": "SUR"
                 },
-                "price": 81.12
+                "price": "Последняя доступная цена: 89.92 от 0"
             },
             {
                 "name": "АбрауДюрсо",
                 "ticker": "ABRD",
                 "dividend": {
-                    "yield": 189.2,
+                    "yield": 198.8,
                     "frequency": "SUR"
                 },
-                "price": 186.8
+                "price": "Последняя доступная цена: 201.2 от 0"
             },
             {
                 "name": "АСКО ао",
@@ -26,159 +26,2826 @@
                     "yield": 3.64,
                     "frequency": "SUR"
                 },
-                "price": null
+                "price": "Последняя доступная цена: None от 0"
             },
             {
                 "name": "Система ао",
                 "ticker": "AFKS",
                 "dividend": {
-                    "yield": 12.816,
+                    "yield": 13.05,
                     "frequency": "SUR"
                 },
-                "price": 12.298
+                "price": "Последняя доступная цена: 14.481 от 0"
             },
             {
                 "name": "Аэрофлот",
                 "ticker": "AFLT",
                 "dividend": {
-                    "yield": 55.8,
+                    "yield": 57.51,
                     "frequency": "SUR"
                 },
-                "price": 53.73
+                "price": "Последняя доступная цена: 60.73 от 0"
             },
             {
                 "name": "AGRO-гдр",
                 "ticker": "AGRO",
                 "dividend": {
-                    "yield": 1147,
+                    "yield": 1184.4,
                     "frequency": "USD"
                 },
-                "price": 1150.8
+                "price": "Последняя доступная цена: 1220 от 0"
             },
             {
                 "name": "Акрон",
                 "ticker": "AKRN",
                 "dividend": {
-                    "yield": 16884,
+                    "yield": 16970,
                     "frequency": "SUR"
                 },
-                "price": 16954
+                "price": "Последняя доступная цена: 17042 от 0"
             },
             {
                 "name": "АЛРОСА ао",
                 "ticker": "ALRS",
                 "dividend": {
-                    "yield": 47.79,
+                    "yield": 51.15,
                     "frequency": "SUR"
                 },
-                "price": 46.6
+                "price": "Последняя доступная цена: 52.92 от 0"
             },
             {
                 "name": "АшинскийМЗ",
                 "ticker": "AMEZ",
                 "dividend": {
-                    "yield": 80.52,
+                    "yield": 75.95,
                     "frequency": "SUR"
                 },
-                "price": 77.78
+                "price": "Последняя доступная цена: 76.9 от 0"
             },
             {
                 "name": "АПРИ",
                 "ticker": "APRI",
                 "dividend": {
-                    "yield": 10.091,
+                    "yield": 10.436,
                     "frequency": "SUR"
                 },
-                "price": 10.084
+                "price": "Последняя доступная цена: 10.428 от 0"
+            },
+            {
+                "name": "Аптеки36и6",
+                "ticker": "APTK",
+                "dividend": {
+                    "yield": 10.764,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 10.8 от 0"
+            },
+            {
+                "name": "ИНАРКТИКА",
+                "ticker": "AQUA",
+                "dividend": {
+                    "yield": 596,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 611.5 от 0"
+            },
+            {
+                "name": "Арсагера",
+                "ticker": "ARSA",
+                "dividend": {
+                    "yield": 11.98,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 12.09 от 0"
+            },
+            {
+                "name": "АстрЭнСб",
+                "ticker": "ASSB",
+                "dividend": {
+                    "yield": 1.785,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 1.775 от 0"
+            },
+            {
+                "name": "Астра ао",
+                "ticker": "ASTR",
+                "dividend": {
+                    "yield": 491.25,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 499.2 от 0"
+            },
+            {
+                "name": "Авангрд-ао",
+                "ticker": "AVAN",
+                "dividend": {
+                    "yield": 836,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 846 от 0"
+            },
+            {
+                "name": "Башнефт ао",
+                "ticker": "BANE",
+                "dividend": {
+                    "yield": 2330,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 2371.5 от 0"
+            },
+            {
+                "name": "Башнефт ап",
+                "ticker": "BANEP",
+                "dividend": {
+                    "yield": 1236,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 1263 от 0"
+            },
+            {
+                "name": "НоваБев ао",
+                "ticker": "BELU",
+                "dividend": {
+                    "yield": 636,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 640 от 0"
+            },
+            {
+                "name": "БашИнСв ап",
+                "ticker": "BISVP",
+                "dividend": {
+                    "yield": 9.32,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 9.29 от 0"
+            },
+            {
+                "name": "БурЗолото",
+                "ticker": "BRZL",
+                "dividend": {
+                    "yield": 1880,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 1886 от 0"
+            },
+            {
+                "name": "БСП ао",
+                "ticker": "BSPB",
+                "dividend": {
+                    "yield": 337.72,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 351.82 от 0"
+            },
+            {
+                "name": "БСП ап",
+                "ticker": "BSPBP",
+                "dividend": {
+                    "yield": 58.25,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 58.15 от 0"
+            },
+            {
+                "name": "СТГ",
+                "ticker": "CARM",
+                "dividend": {
+                    "yield": 1.798,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 1.84 от 0"
+            },
+            {
+                "name": "МКБ ао",
+                "ticker": "CBOM",
+                "dividend": {
+                    "yield": 6.274,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 6.754 от 0"
+            },
+            {
+                "name": "РН-ЗапСиб",
+                "ticker": "CHGZ",
+                "dividend": {
+                    "yield": 85.4,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 85.4 от 0"
+            },
+            {
+                "name": "ЧКПЗ ао",
+                "ticker": "CHKZ",
+                "dividend": {
+                    "yield": 19800,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 19950 от 0"
+            },
+            {
+                "name": "СевСт-ао",
+                "ticker": "CHMF",
+                "dividend": {
+                    "yield": 1158.2,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 1209.8 от 0"
+            },
+            {
+                "name": "ЧМК ао",
+                "ticker": "CHMK",
+                "dividend": {
+                    "yield": 5740,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 5775 от 0"
+            },
+            {
+                "name": "CIAN-адр",
+                "ticker": "CIAN",
+                "dividend": {
+                    "yield": 558,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 576 от 0"
+            },
+            {
+                "name": "Телеграф",
+                "ticker": "CNTL",
+                "dividend": {
+                    "yield": 10.58,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 10.76 от 0"
+            },
+            {
+                "name": "Телеграф-п",
+                "ticker": "CNTLP",
+                "dividend": {
+                    "yield": 7.82,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 7.86 от 0"
+            },
+            {
+                "name": "iАренадата",
+                "ticker": "DATA",
+                "dividend": {
+                    "yield": 117.02,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 119.32 от 0"
+            },
+            {
+                "name": "iКаршеринг",
+                "ticker": "DELI",
+                "dividend": {
+                    "yield": 198.25,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 204.2 от 0"
+            },
+            {
+                "name": "iДиасофт",
+                "ticker": "DIAS",
+                "dividend": {
+                    "yield": 4536.5,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 4575 от 0"
+            },
+            {
+                "name": "ЗаводДИОД",
+                "ticker": "DIOD",
+                "dividend": {
+                    "yield": 10.88,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 10.95 от 0"
+            },
+            {
+                "name": "ДЭК ао",
+                "ticker": "DVEC",
+                "dividend": {
+                    "yield": 2.489,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 2.458 от 0"
+            },
+            {
+                "name": "ДонскЗР",
+                "ticker": "DZRD",
+                "dividend": {
+                    "yield": 3880,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 3955 от 0"
+            },
+            {
+                "name": "ДонскЗР п",
+                "ticker": "DZRDP",
+                "dividend": {
+                    "yield": 2710,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 2930 от 0"
+            },
+            {
+                "name": "ЕвроЭлтех",
+                "ticker": "EELT",
+                "dividend": {
+                    "yield": 12,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 12.04 от 0"
+            },
+            {
+                "name": "ЭЛ5Энер ао",
+                "ticker": "ELFV",
+                "dividend": {
+                    "yield": 0.5522,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.5584 от 0"
+            },
+            {
+                "name": "Элемент",
+                "ticker": "ELMT",
+                "dividend": {
+                    "yield": 0.16105,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.16245 от 0"
+            },
+            {
+                "name": "ЭН+ГРУП ао",
+                "ticker": "ENPG",
+                "dividend": {
+                    "yield": 323.4,
+                    "frequency": "USD"
+                },
+                "price": "Последняя доступная цена: 331.1 от 0"
+            },
+            {
+                "name": "ETLN-гдр",
+                "ticker": "ETLN",
+                "dividend": {
+                    "yield": 59.56,
+                    "frequency": "USD"
+                },
+                "price": "Последняя доступная цена: 60.26 от 0"
+            },
+            {
+                "name": "ЕвроТранс",
+                "ticker": "EUTR",
+                "dividend": {
+                    "yield": 111.4,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 112.8 от 0"
+            },
+            {
+                "name": "Россети",
+                "ticker": "FEES",
+                "dividend": {
+                    "yield": 0.07498,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.07814 от 0"
+            },
+            {
+                "name": "ДВМП ао",
+                "ticker": "FESH",
+                "dividend": {
+                    "yield": 45.02,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 49.91 от 0"
+            },
+            {
+                "name": "FIVE-гдр",
+                "ticker": "FIVE",
+                "dividend": {
+                    "yield": 2810.5,
+                    "frequency": "USD"
+                },
+                "price": "Последняя доступная цена: None от 0"
+            },
+            {
+                "name": "FIXP-гдр",
+                "ticker": "FIXP",
+                "dividend": {
+                    "yield": 172.9,
+                    "frequency": "USD"
+                },
+                "price": "Последняя доступная цена: 178.7 от 0"
+            },
+            {
+                "name": "Совкомфлот",
+                "ticker": "FLOT",
+                "dividend": {
+                    "yield": 94.49,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 97.15 от 0"
+            },
+            {
+                "name": "ГАЗКОН-ао",
+                "ticker": "GAZC",
+                "dividend": {
+                    "yield": 301,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: None от 0"
+            },
+            {
+                "name": "ГАЗПРОМ ао",
+                "ticker": "GAZP",
+                "dividend": {
+                    "yield": 132.19,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 135.9 от 0"
+            },
+            {
+                "name": "ГАЗ-сервис",
+                "ticker": "GAZS",
+                "dividend": {
+                    "yield": 300,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: None от 0"
+            },
+            {
+                "name": "ГАЗ-Тек ао",
+                "ticker": "GAZT",
+                "dividend": {
+                    "yield": 81,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: None от 0"
+            },
+            {
+                "name": "ЧеркизГ-ао",
+                "ticker": "GCHE",
+                "dividend": {
+                    "yield": 3972,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 4029 от 0"
+            },
+            {
+                "name": "iГЕНЕТИКО",
+                "ticker": "GECO",
+                "dividend": {
+                    "yield": 29.92,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 30.1 от 0"
+            },
+            {
+                "name": "iММЦБ ао",
+                "ticker": "GEMA",
+                "dividend": {
+                    "yield": 137,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 138.9 от 0"
+            },
+            {
+                "name": "МКПАО ЮМГ",
+                "ticker": "GEMC",
+                "dividend": {
+                    "yield": 674.2,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 702.3 от 0"
+            },
+            {
+                "name": "GLTR-гдр",
+                "ticker": "GLTR",
+                "dividend": {
+                    "yield": 525,
+                    "frequency": "USD"
+                },
+                "price": "Последняя доступная цена: None от 0"
+            },
+            {
+                "name": "ГМКНорНик",
+                "ticker": "GMKN",
+                "dividend": {
+                    "yield": 107.16,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 111.58 от 0"
+            },
+            {
+                "name": "Хэдхантер",
+                "ticker": "HEAD",
+                "dividend": {
+                    "yield": 4300,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 4399 от 0"
+            },
+            {
+                "name": "Химпром ап",
+                "ticker": "HIMCP",
+                "dividend": {
+                    "yield": 20.3,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 21.38 от 0"
+            },
+            {
+                "name": "ХЭНДЕРСОН",
+                "ticker": "HNFG",
+                "dividend": {
+                    "yield": 565.8,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 565.1 от 0"
+            },
+            {
+                "name": "РусГидро",
+                "ticker": "HYDR",
+                "dividend": {
+                    "yield": 0.5033,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.5215 от 0"
+            },
+            {
+                "name": "Ижсталь2ао",
+                "ticker": "IGST",
+                "dividend": {
+                    "yield": 6520,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 6380 от 0"
+            },
+            {
+                "name": "Ижсталь ап",
+                "ticker": "IGSTP",
+                "dividend": {
+                    "yield": 4570,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 4720 от 0"
+            },
+            {
+                "name": "ИНГРАД ао",
+                "ticker": "INGR",
+                "dividend": {
+                    "yield": 1654,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 1666 от 0"
+            },
+            {
+                "name": "ИнтерРАОао",
+                "ticker": "IRAO",
+                "dividend": {
+                    "yield": 3.8715,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 3.921 от 0"
+            },
+            {
+                "name": "Яковлев-3",
+                "ticker": "IRKT",
+                "dividend": {
+                    "yield": 29.45,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 30.65 от 0"
+            },
+            {
+                "name": "iИВА",
+                "ticker": "IVAT",
+                "dividend": {
+                    "yield": 208,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 218.75 от 0"
+            },
+            {
+                "name": "Славн-ЯНОС",
+                "ticker": "JNOS",
+                "dividend": {
+                    "yield": 17.75,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 18.1 от 0"
+            },
+            {
+                "name": "Слав-ЯНОСп",
+                "ticker": "JNOSP",
+                "dividend": {
+                    "yield": 11.98,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 12.14 от 0"
+            },
+            {
+                "name": "Куйбазот",
+                "ticker": "KAZT",
+                "dividend": {
+                    "yield": 434.8,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 443.4 от 0"
+            },
+            {
+                "name": "Куйбазот-п",
+                "ticker": "KAZTP",
+                "dividend": {
+                    "yield": 461.5,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 451.5 от 0"
+            },
+            {
+                "name": "ТНСэКубань",
+                "ticker": "KBSB",
+                "dividend": {
+                    "yield": 398.5,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 414 от 0"
+            },
+            {
+                "name": "КамчатЭ ао",
+                "ticker": "KCHE",
+                "dividend": {
+                    "yield": 0.519,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.519 от 0"
+            },
+            {
+                "name": "КамчатЭ ап",
+                "ticker": "KCHEP",
+                "dividend": {
+                    "yield": 0.84,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.85 от 0"
+            },
+            {
+                "name": "КурганГКао",
+                "ticker": "KGKC",
+                "dividend": {
+                    "yield": 45,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 44.4 от 0"
+            },
+            {
+                "name": "КурганГКап",
+                "ticker": "KGKCP",
+                "dividend": {
+                    "yield": 49.8,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 49.4 от 0"
+            },
+            {
+                "name": "КалужскСК",
+                "ticker": "KLSB",
+                "dividend": {
+                    "yield": 22.57,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 22.66 от 0"
+            },
+            {
+                "name": "Кристалл",
+                "ticker": "KLVZ",
+                "dividend": {
+                    "yield": 4.406,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 4.428 от 0"
+            },
+            {
+                "name": "КАМАЗ",
+                "ticker": "KMAZ",
+                "dividend": {
+                    "yield": 113.9,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 120.7 от 0"
+            },
+            {
+                "name": "КМЗ",
+                "ticker": "KMEZ",
+                "dividend": {
+                    "yield": 1150,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 1212 от 0"
+            },
+            {
+                "name": "КоршГОК ао",
+                "ticker": "KOGK",
+                "dividend": {
+                    "yield": 39000,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 39200 от 0"
+            },
+            {
+                "name": "СаратНПЗ",
+                "ticker": "KRKN",
+                "dividend": {
+                    "yield": 9600,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 9700 от 0"
+            },
+            {
+                "name": "СаратНПЗ-п",
+                "ticker": "KRKNP",
+                "dividend": {
+                    "yield": 8520,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 8580 от 0"
+            },
+            {
+                "name": "ТКЗКК ап",
+                "ticker": "KRKOP",
+                "dividend": {
+                    "yield": 13.04,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 13.08 от 0"
+            },
+            {
+                "name": "КрасОкт-ао",
+                "ticker": "KROT",
+                "dividend": {
+                    "yield": 1792,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 1795 от 0"
+            },
+            {
+                "name": "КрасОкт-1п",
+                "ticker": "KROTP",
+                "dividend": {
+                    "yield": 475,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 484 от 0"
+            },
+            {
+                "name": "Красэсб ао",
+                "ticker": "KRSB",
+                "dividend": {
+                    "yield": 12.44,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 12.94 от 0"
+            },
+            {
+                "name": "Красэсб ап",
+                "ticker": "KRSBP",
+                "dividend": {
+                    "yield": 12.52,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 12.98 от 0"
+            },
+            {
+                "name": "РСетКубань",
+                "ticker": "KUBE",
+                "dividend": {
+                    "yield": 132.4,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 134.4 от 0"
+            },
+            {
+                "name": "КузнецкийБ",
+                "ticker": "KUZB",
+                "dividend": {
+                    "yield": 0.03635,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.03525 от 0"
+            },
+            {
+                "name": "ОргСинт ао",
+                "ticker": "KZOS",
+                "dividend": {
+                    "yield": 76.7,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 78.7 от 0"
+            },
+            {
+                "name": "ОргСинт ап",
+                "ticker": "KZOSP",
+                "dividend": {
+                    "yield": 19.72,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 19.86 от 0"
+            },
+            {
+                "name": "Европлан",
+                "ticker": "LEAS",
+                "dividend": {
+                    "yield": 586.2,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 612.5 от 0"
+            },
+            {
+                "name": "Лента ао",
+                "ticker": "LENT",
+                "dividend": {
+                    "yield": 1030,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 1028.5 от 0"
+            },
+            {
+                "name": "ЛУКОЙЛ",
+                "ticker": "LKOH",
+                "dividend": {
+                    "yield": 7025.5,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 7172 от 0"
+            },
+            {
+                "name": "Ламбумиз",
+                "ticker": "LMBZ",
+                "dividend": {
+                    "yield": 429.25,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 422.3 от 0"
+            },
+            {
+                "name": "Лензолото",
+                "ticker": "LNZL",
+                "dividend": {
+                    "yield": 11560,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 11500 от 0"
+            },
+            {
+                "name": "Лензол. ап",
+                "ticker": "LNZLP",
+                "dividend": {
+                    "yield": 1865,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 1870 от 0"
+            },
+            {
+                "name": "РСетиЛЭ",
+                "ticker": "LSNG",
+                "dividend": {
+                    "yield": 12.76,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 13.11 от 0"
+            },
+            {
+                "name": "РСетиЛЭ-п",
+                "ticker": "LSNGP",
+                "dividend": {
+                    "yield": 200.45,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 206.15 от 0"
+            },
+            {
+                "name": "ЛСР ао",
+                "ticker": "LSRG",
+                "dividend": {
+                    "yield": 727.6,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 727.4 от 0"
+            },
+            {
+                "name": "Левенгук",
+                "ticker": "LVHK",
+                "dividend": {
+                    "yield": 35.15,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 35.25 от 0"
+            },
+            {
+                "name": "МагадЭн ао",
+                "ticker": "MAGE",
+                "dividend": {
+                    "yield": 3.27,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 3.4 от 0"
+            },
+            {
+                "name": "МагадЭн ап",
+                "ticker": "MAGEP",
+                "dividend": {
+                    "yield": 2.49,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 2.55 от 0"
+            },
+            {
+                "name": "ММК",
+                "ticker": "MAGN",
+                "dividend": {
+                    "yield": 37.05,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 38.325 от 0"
+            },
+            {
+                "name": "МТС Банк",
+                "ticker": "MBNK",
+                "dividend": {
+                    "yield": 1375.5,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 1400 от 0"
+            },
+            {
+                "name": "MDMG-ао",
+                "ticker": "MDMG",
+                "dividend": {
+                    "yield": 839.1,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 859 от 0"
+            },
+            {
+                "name": "Мегион-ао",
+                "ticker": "MFGS",
+                "dividend": {
+                    "yield": 371,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 375 от 0"
+            },
+            {
+                "name": "Мегион-ап",
+                "ticker": "MFGSP",
+                "dividend": {
+                    "yield": 251,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 244.5 от 0"
+            },
+            {
+                "name": "МГКЛ",
+                "ticker": "MGKL",
+                "dividend": {
+                    "yield": 2.165,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 2.177 от 0"
+            },
+            {
+                "name": "Магнит ао",
+                "ticker": "MGNT",
+                "dividend": {
+                    "yield": 4696,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 4856.5 от 0"
+            },
+            {
+                "name": "СМЗ-ао",
+                "ticker": "MGNZ",
+                "dividend": {
+                    "yield": 7330,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: None от 0"
+            },
+            {
+                "name": "МГТС-5ао",
+                "ticker": "MGTS",
+                "dividend": {
+                    "yield": 1170,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 1190 от 0"
+            },
+            {
+                "name": "МГТС-4ап",
+                "ticker": "MGTSP",
+                "dividend": {
+                    "yield": 912,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 936 от 0"
+            },
+            {
+                "name": "ТНСэнМарЭл",
+                "ticker": "MISB",
+                "dividend": {
+                    "yield": 47.5,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 45 от 0"
+            },
+            {
+                "name": "ТНСэМаЭл-п",
+                "ticker": "MISBP",
+                "dividend": {
+                    "yield": 46.6,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 46.2 от 0"
+            },
+            {
+                "name": "МосБиржа",
+                "ticker": "MOEX",
+                "dividend": {
+                    "yield": 198.14,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 210.5 от 0"
+            },
+            {
+                "name": "РоссЦентр",
+                "ticker": "MRKC",
+                "dividend": {
+                    "yield": 0.4242,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.44 от 0"
+            },
+            {
+                "name": "Россети СК",
+                "ticker": "MRKK",
+                "dividend": {
+                    "yield": 16.76,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 16.92 от 0"
+            },
+            {
+                "name": "РСетиЦП ао",
+                "ticker": "MRKP",
+                "dividend": {
+                    "yield": 0.3222,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.3299 от 0"
+            },
+            {
+                "name": "РсетСиб ао",
+                "ticker": "MRKS",
+                "dividend": {
+                    "yield": 0.54,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.545 от 0"
+            },
+            {
+                "name": "Россети Ур",
+                "ticker": "MRKU",
+                "dividend": {
+                    "yield": 0.3682,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.3732 от 0"
+            },
+            {
+                "name": "РсетВол ао",
+                "ticker": "MRKV",
+                "dividend": {
+                    "yield": 0.061,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.0631 от 0"
+            },
+            {
+                "name": "РоссЮг ао",
+                "ticker": "MRKY",
+                "dividend": {
+                    "yield": 0.05965,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.0606 от 0"
+            },
+            {
+                "name": "РСетиСЗ ао",
+                "ticker": "MRKZ",
+                "dividend": {
+                    "yield": 0.05485,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.05575 от 0"
+            },
+            {
+                "name": "МордЭнСб",
+                "ticker": "MRSB",
+                "dividend": {
+                    "yield": 0.822,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.816 от 0"
+            },
+            {
+                "name": "+МосЭнерго",
+                "ticker": "MSNG",
+                "dividend": {
+                    "yield": 2.201,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 2.377 от 0"
+            },
+            {
+                "name": "РСетиМР ао",
+                "ticker": "MSRS",
+                "dividend": {
+                    "yield": 1.123,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 1.145 от 0"
+            },
+            {
+                "name": "Мостотрест",
+                "ticker": "MSTT",
+                "dividend": {
+                    "yield": 164.05,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 166.8 от 0"
+            },
+            {
+                "name": "Мечел ао",
+                "ticker": "MTLR",
+                "dividend": {
+                    "yield": 102.15,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 105.15 от 0"
+            },
+            {
+                "name": "Мечел ап",
+                "ticker": "MTLRP",
+                "dividend": {
+                    "yield": 104.3,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 108.95 от 0"
+            },
+            {
+                "name": "МТС-ао",
+                "ticker": "MTSS",
+                "dividend": {
+                    "yield": 190.6,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 198.25 от 0"
+            },
+            {
+                "name": "М.видео",
+                "ticker": "MVID",
+                "dividend": {
+                    "yield": 95.4,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 101.3 от 0"
+            },
+            {
+                "name": "iНПОНаука",
+                "ticker": "NAUK",
+                "dividend": {
+                    "yield": 428.5,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 435 от 0"
+            },
+            {
+                "name": "НЕФАЗ",
+                "ticker": "NFAZ",
+                "dividend": {
+                    "yield": 297,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 289.5 от 0"
+            },
+            {
+                "name": "НКХП ао",
+                "ticker": "NKHP",
+                "dividend": {
+                    "yield": 695.5,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 701.5 от 0"
+            },
+            {
+                "name": "НКНХ ао",
+                "ticker": "NKNC",
+                "dividend": {
+                    "yield": 83.45,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 85.15 от 0"
+            },
+            {
+                "name": "НКНХ ап",
+                "ticker": "NKNCP",
+                "dividend": {
+                    "yield": 66.4,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 68.26 от 0"
+            },
+            {
+                "name": "Нижкамшина",
+                "ticker": "NKSH",
+                "dividend": {
+                    "yield": 55.1,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 53.5 от 0"
+            },
+            {
+                "name": "НЛМК ао",
+                "ticker": "NLMK",
+                "dividend": {
+                    "yield": 128.86,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 130.82 от 0"
+            },
+            {
+                "name": "НМТП ао",
+                "ticker": "NMTP",
+                "dividend": {
+                    "yield": 8.535,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 8.89 от 0"
+            },
+            {
+                "name": "ТНСэнНН ао",
+                "ticker": "NNSB",
+                "dividend": {
+                    "yield": 3920,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 3800 от 0"
+            },
+            {
+                "name": "ТНСэнНН ап",
+                "ticker": "NNSBP",
+                "dividend": {
+                    "yield": 1220,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 1192 от 0"
+            },
+            {
+                "name": "iНаукаСвяз",
+                "ticker": "NSVZ",
+                "dividend": {
+                    "yield": 313.5,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 313.5 от 0"
+            },
+            {
+                "name": "Новатэк ао",
+                "ticker": "NVTK",
+                "dividend": {
+                    "yield": 897.8,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 944.8 от 0"
+            },
+            {
+                "name": "ОГК-2 ао",
+                "ticker": "OGKB",
+                "dividend": {
+                    "yield": 0.3389,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.3514 от 0"
+            },
+            {
+                "name": "OKEY-гдр",
+                "ticker": "OKEY",
+                "dividend": {
+                    "yield": 24.06,
+                    "frequency": "USD"
+                },
+                "price": "Последняя доступная цена: 24.05 от 0"
+            },
+            {
+                "name": "ОМЗ-ап",
+                "ticker": "OMZZP",
+                "dividend": {
+                    "yield": 12540,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 12440 от 0"
+            },
+            {
+                "name": "OZON-адр",
+                "ticker": "OZON",
+                "dividend": {
+                    "yield": 2960,
+                    "frequency": "USD"
+                },
+                "price": "Последняя доступная цена: 3288 от 0"
+            },
+            {
+                "name": "ОзонФарм",
+                "ticker": "OZPH",
+                "dividend": {
+                    "yield": 29.27,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 30.33 от 0"
+            },
+            {
+                "name": "ФосАгро ао",
+                "ticker": "PHOR",
+                "dividend": {
+                    "yield": 5192,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 5560 от 0"
+            },
+            {
+                "name": "ПИК ао",
+                "ticker": "PIKK",
+                "dividend": {
+                    "yield": 470.3,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 510.2 от 0"
+            },
+            {
+                "name": "Полюс",
+                "ticker": "PLZL",
+                "dividend": {
+                    "yield": 14710.5,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 14746 от 0"
+            },
+            {
+                "name": "ПермьЭнСб",
+                "ticker": "PMSB",
+                "dividend": {
+                    "yield": 235.8,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 241.5 от 0"
+            },
+            {
+                "name": "ПермьЭнС-п",
+                "ticker": "PMSBP",
+                "dividend": {
+                    "yield": 255.2,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 258.8 от 0"
+            },
+            {
+                "name": "iПозитив",
+                "ticker": "POSI",
+                "dividend": {
+                    "yield": 2216,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 2204.8 от 0"
+            },
+            {
+                "name": "ЧЗПСН ао",
+                "ticker": "PRFN",
+                "dividend": {
+                    "yield": 4.932,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 5.028 от 0"
+            },
+            {
+                "name": "Приморье",
+                "ticker": "PRMB",
+                "dividend": {
+                    "yield": 30000,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 29600 от 0"
+            },
+            {
+                "name": "ПРОМОМЕД",
+                "ticker": "PRMD",
+                "dividend": {
+                    "yield": 332.35,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 330.1 от 0"
+            },
+            {
+                "name": "iQIWI",
+                "ticker": "QIWI",
+                "dividend": {
+                    "yield": 216,
+                    "frequency": "USD"
+                },
+                "price": "Последняя доступная цена: 220 от 0"
+            },
+            {
+                "name": "Распадская",
+                "ticker": "RASP",
+                "dividend": {
+                    "yield": 272.15,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 284.6 от 0"
+            },
+            {
+                "name": "РДБанк ао",
+                "ticker": "RDRB",
+                "dividend": {
+                    "yield": 145,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 144.5 от 0"
+            },
+            {
+                "name": "Ренессанс",
+                "ticker": "RENI",
+                "dividend": {
+                    "yield": 96.64,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 98.2 от 0"
+            },
+            {
+                "name": "РГС СК ао",
+                "ticker": "RGSS",
+                "dividend": {
+                    "yield": 0.2228,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.2228 от 0"
+            },
+            {
+                "name": "ЭнергияРКК",
+                "ticker": "RKKE",
+                "dividend": {
+                    "yield": 18430,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 18720 от 0"
+            },
+            {
+                "name": "РуссНфт ао",
+                "ticker": "RNFT",
+                "dividend": {
+                    "yield": 141.3,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 144.2 от 0"
+            },
+            {
+                "name": "Русолово",
+                "ticker": "ROLO",
+                "dividend": {
+                    "yield": 0.6422,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.65 от 0"
+            },
+            {
+                "name": "Росбанк ао",
+                "ticker": "ROSB",
+                "dividend": {
+                    "yield": 123,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 124.2 от 0"
+            },
+            {
+                "name": "Роснефть",
+                "ticker": "ROSN",
+                "dividend": {
+                    "yield": 465.75,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 481.5 от 0"
+            },
+            {
+                "name": "РОСИНТЕРао",
+                "ticker": "ROST",
+                "dividend": {
+                    "yield": 133.4,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 133 от 0"
+            },
+            {
+                "name": "ГР Ростов",
+                "ticker": "RTGZ",
+                "dividend": {
+                    "yield": 42500,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 46400 от 0"
+            },
+            {
+                "name": "Ростел -ао",
+                "ticker": "RTKM",
+                "dividend": {
+                    "yield": 63.29,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 66.73 от 0"
+            },
+            {
+                "name": "Ростел -ап",
+                "ticker": "RTKMP",
+                "dividend": {
+                    "yield": 59.8,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 62.85 от 0"
+            },
+            {
+                "name": "ТНСэнРст",
+                "ticker": "RTSB",
+                "dividend": {
+                    "yield": 2.59,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 2.515 от 0"
+            },
+            {
+                "name": "ТНСэнРст-п",
+                "ticker": "RTSBP",
+                "dividend": {
+                    "yield": 1.37,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 1.362 от 0"
+            },
+            {
+                "name": "РУСАЛ ао",
+                "ticker": "RUAL",
+                "dividend": {
+                    "yield": 36.635,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 38.31 от 0"
+            },
+            {
+                "name": "ИКРУСС-ИНВ",
+                "ticker": "RUSI",
+                "dividend": {
+                    "yield": 70.5,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 69.9 от 0"
+            },
+            {
+                "name": "РязЭнСб",
+                "ticker": "RZSB",
+                "dividend": {
+                    "yield": 27.68,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 28.42 от 0"
+            },
+            {
+                "name": "СамарЭн-ао",
+                "ticker": "SAGO",
+                "dividend": {
+                    "yield": 2.955,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 2.99 от 0"
+            },
+            {
+                "name": "СамарЭн-ап",
+                "ticker": "SAGOP",
+                "dividend": {
+                    "yield": 2.99,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 2.985 от 0"
+            },
+            {
+                "name": "СаратЭн-ао",
+                "ticker": "SARE",
+                "dividend": {
+                    "yield": 0.41,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.409 от 0"
+            },
+            {
+                "name": "СаратЭн-ап",
+                "ticker": "SAREP",
+                "dividend": {
+                    "yield": 0.233,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.228 от 0"
+            },
+            {
+                "name": "Сбербанк",
+                "ticker": "SBER",
+                "dividend": {
+                    "yield": 246.45,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 255.98 от 0"
+            },
+            {
+                "name": "Сбербанк-п",
+                "ticker": "SBERP",
+                "dividend": {
+                    "yield": 246.16,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 256.2 от 0"
+            },
+            {
+                "name": "Селигдар",
+                "ticker": "SELG",
+                "dividend": {
+                    "yield": 43.88,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 44.44 от 0"
+            },
+            {
+                "name": "ЭсЭфАй ао",
+                "ticker": "SFIN",
+                "dividend": {
+                    "yield": 1483,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 1497.8 от 0"
+            },
+            {
+                "name": "Сегежа",
+                "ticker": "SGZH",
+                "dividend": {
+                    "yield": 1.742,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 1.78 от 0"
+            },
+            {
+                "name": "Газпрнефть",
+                "ticker": "SIBN",
+                "dividend": {
+                    "yield": 556.9,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 577.1 от 0"
+            },
+            {
+                "name": "Сахэнер ао",
+                "ticker": "SLEN",
+                "dividend": {
+                    "yield": 3.455,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 3.67 от 0"
+            },
+            {
+                "name": "Самолет ао",
+                "ticker": "SMLT",
+                "dividend": {
+                    "yield": 1262.5,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 1325 от 0"
+            },
+            {
+                "name": "Сургнфгз",
+                "ticker": "SNGS",
+                "dividend": {
+                    "yield": 24.51,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 25.335 от 0"
+            },
+            {
+                "name": "Сургнфгз-п",
+                "ticker": "SNGSP",
+                "dividend": {
+                    "yield": 55.935,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 57.235 от 0"
+            },
+            {
+                "name": "iСофтлайн",
+                "ticker": "SOFL",
+                "dividend": {
+                    "yield": 121.4,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 122.98 от 0"
+            },
+            {
+                "name": "СПБ Биржа",
+                "ticker": "SPBE",
+                "dividend": {
+                    "yield": 131.7,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 133.1 от 0"
+            },
+            {
+                "name": "СтаврЭнСб",
+                "ticker": "STSB",
+                "dividend": {
+                    "yield": 3.085,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 3.065 от 0"
+            },
+            {
+                "name": "СтаврЭнСбп",
+                "ticker": "STSBP",
+                "dividend": {
+                    "yield": 3.275,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 3.27 от 0"
+            },
+            {
+                "name": "СОЛЛЕРС",
+                "ticker": "SVAV",
+                "dividend": {
+                    "yield": 746.5,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 774 от 0"
+            },
+            {
+                "name": "Совкомбанк",
+                "ticker": "SVCB",
+                "dividend": {
+                    "yield": 12.685,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 13.28 от 0"
+            },
+            {
+                "name": "Светофор",
+                "ticker": "SVET",
+                "dividend": {
+                    "yield": 17.2,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 17.8 от 0"
+            },
+            {
+                "name": "Светофор п",
+                "ticker": "SVETP",
+                "dividend": {
+                    "yield": 20.55,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 20.45 от 0"
+            },
+            {
+                "name": "ТамбЭнСб",
+                "ticker": "TASB",
+                "dividend": {
+                    "yield": 1.37,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 1.406 от 0"
+            },
+            {
+                "name": "ТамбЭнСб-п",
+                "ticker": "TASBP",
+                "dividend": {
+                    "yield": 0.724,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.714 от 0"
+            },
+            {
+                "name": "Татнфт 3ао",
+                "ticker": "TATN",
+                "dividend": {
+                    "yield": 567.1,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 595.5 от 0"
+            },
+            {
+                "name": "Татнфт 3ап",
+                "ticker": "TATNP",
+                "dividend": {
+                    "yield": 566.2,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 593.4 от 0"
+            },
+            {
+                "name": "ТКСХолд ао",
+                "ticker": "TCSG",
+                "dividend": {
+                    "yield": 2409.4,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 2573 от 0"
+            },
+            {
+                "name": "ТГК-1",
+                "ticker": "TGKA",
+                "dividend": {
+                    "yield": 0.006812,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.00702 от 0"
+            },
+            {
+                "name": "ТГК-2",
+                "ticker": "TGKB",
+                "dividend": {
+                    "yield": 0.00706,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.007305 от 0"
+            },
+            {
+                "name": "ТГК-2 ап",
+                "ticker": "TGKBP",
+                "dividend": {
+                    "yield": 0.01271,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.01316 от 0"
+            },
+            {
+                "name": "ТГК-14",
+                "ticker": "TGKN",
+                "dividend": {
+                    "yield": 0.00756,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.00791 от 0"
+            },
+            {
+                "name": "ТНСэнрг ао",
+                "ticker": "TNSE",
+                "dividend": {
+                    "yield": 2305,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 2215 от 0"
+            },
+            {
+                "name": "РСТомск ао",
+                "ticker": "TORS",
+                "dividend": {
+                    "yield": 0.616,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.624 от 0"
+            },
+            {
+                "name": "РСТомск ап",
+                "ticker": "TORSP",
+                "dividend": {
+                    "yield": 0.412,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.42 от 0"
+            },
+            {
+                "name": "ТМК ао",
+                "ticker": "TRMK",
+                "dividend": {
+                    "yield": 107.4,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 110.38 от 0"
+            },
+            {
+                "name": "Транснф ап",
+                "ticker": "TRNFP",
+                "dividend": {
+                    "yield": 1320,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 1348 от 0"
+            },
+            {
+                "name": "Таттел. ао",
+                "ticker": "TTLK",
+                "dividend": {
+                    "yield": 0.651,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.644 от 0"
+            },
+            {
+                "name": "ТЗА ао",
+                "ticker": "TUZA",
+                "dividend": {
+                    "yield": 229.5,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 235.5 от 0"
+            },
+            {
+                "name": "ЮГК",
+                "ticker": "UGLD",
+                "dividend": {
+                    "yield": 0.5996,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.5974 от 0"
+            },
+            {
+                "name": "ЮжКузб. ао",
+                "ticker": "UKUZ",
+                "dividend": {
+                    "yield": 1156,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 1162 от 0"
+            },
+            {
+                "name": "iАвиастКао",
+                "ticker": "UNAC",
+                "dividend": {
+                    "yield": 0.7015,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.722 от 0"
+            },
+            {
+                "name": "ЮУНК ао",
+                "ticker": "UNKL",
+                "dividend": {
+                    "yield": 6190,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 6250 от 0"
+            },
+            {
+                "name": "Юнипро ао",
+                "ticker": "UPRO",
+                "dividend": {
+                    "yield": 1.718,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 1.787 от 0"
+            },
+            {
+                "name": "УрКузница",
+                "ticker": "URKZ",
+                "dividend": {
+                    "yield": 27100,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 27300 от 0"
+            },
+            {
+                "name": "УралСиб ао",
+                "ticker": "USBN",
+                "dividend": {
+                    "yield": 0.1587,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.1583 от 0"
+            },
+            {
+                "name": "ЮТэйр ао",
+                "ticker": "UTAR",
+                "dividend": {
+                    "yield": 12.92,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 15.7 от 0"
+            },
+            {
+                "name": "VEON",
+                "ticker": "VEON-RX",
+                "dividend": {
+                    "yield": 26.4,
+                    "frequency": "USD"
+                },
+                "price": "Последняя доступная цена: 27.55 от 0"
+            },
+            {
+                "name": "ВолгЭнСб",
+                "ticker": "VGSB",
+                "dividend": {
+                    "yield": 11.68,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 11.88 от 0"
+            },
+            {
+                "name": "ВолгЭнСб-п",
+                "ticker": "VGSBP",
+                "dividend": {
+                    "yield": 9.18,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 8.9 от 0"
+            },
+            {
+                "name": "Варьеган",
+                "ticker": "VJGZ",
+                "dividend": {
+                    "yield": 2195,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 2315 от 0"
+            },
+            {
+                "name": "Варьеган-п",
+                "ticker": "VJGZP",
+                "dividend": {
+                    "yield": 1565,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 1595 от 0"
+            },
+            {
+                "name": "МКПАО \"ВК\"",
+                "ticker": "VKCO",
+                "dividend": {
+                    "yield": 296.2,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 320.6 от 0"
+            },
+            {
+                "name": "ВХЗ-ао",
+                "ticker": "VLHZ",
+                "dividend": {
+                    "yield": 160.2,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 177.2 от 0"
+            },
+            {
+                "name": "ТНСэнВорон",
+                "ticker": "VRSB",
+                "dividend": {
+                    "yield": 444.5,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 442.5 от 0"
+            },
+            {
+                "name": "ТНСэнВор-п",
+                "ticker": "VRSBP",
+                "dividend": {
+                    "yield": 134,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 134 от 0"
+            },
+            {
+                "name": "ВИ.ру",
+                "ticker": "VSEH",
+                "dividend": {
+                    "yield": 93.55,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 93.95 от 0"
+            },
+            {
+                "name": "ВСМПО-АВСМ",
+                "ticker": "VSMO",
+                "dividend": {
+                    "yield": 23900,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 24540 от 0"
+            },
+            {
+                "name": "ВыбСудЗ ао",
+                "ticker": "VSYD",
+                "dividend": {
+                    "yield": 13300,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 13600 от 0"
+            },
+            {
+                "name": "ВыбСудЗ ап",
+                "ticker": "VSYDP",
+                "dividend": {
+                    "yield": 9450,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 9200 от 0"
+            },
+            {
+                "name": "ВТБ ао",
+                "ticker": "VTBR",
+                "dividend": {
+                    "yield": 77.69,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 80.2 от 0"
+            },
+            {
+                "name": "ЦМТ ао",
+                "ticker": "WTCM",
+                "dividend": {
+                    "yield": 13.14,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 13.28 от 0"
+            },
+            {
+                "name": "ЦМТ ап",
+                "ticker": "WTCMP",
+                "dividend": {
+                    "yield": 9.04,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 9 от 0"
+            },
+            {
+                "name": "iВУШХолднг",
+                "ticker": "WUSH",
+                "dividend": {
+                    "yield": 164.81,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 169.3 от 0"
+            },
+            {
+                "name": "ЯТЭК ао",
+                "ticker": "YAKG",
+                "dividend": {
+                    "yield": 58.75,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 60.15 от 0"
+            },
+            {
+                "name": "ЯНДЕКС",
+                "ticker": "YDEX",
+                "dividend": {
+                    "yield": 3703,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 3888 от 0"
+            },
+            {
+                "name": "Якутскэнрг",
+                "ticker": "YKEN",
+                "dividend": {
+                    "yield": 0.477,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.476 от 0"
+            },
+            {
+                "name": "Якутскэн-п",
+                "ticker": "YKENP",
+                "dividend": {
+                    "yield": 0.447,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 0.443 от 0"
+            },
+            {
+                "name": "ТНСэнЯр",
+                "ticker": "YRSB",
+                "dividend": {
+                    "yield": 768,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 800 от 0"
+            },
+            {
+                "name": "ТНСэнЯр-п",
+                "ticker": "YRSBP",
+                "dividend": {
+                    "yield": 188,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 182 от 0"
+            },
+            {
+                "name": "Займер ао",
+                "ticker": "ZAYM",
+                "dividend": {
+                    "yield": 137.85,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 140.3 от 0"
+            },
+            {
+                "name": "ЗИЛ ао",
+                "ticker": "ZILL",
+                "dividend": {
+                    "yield": 3080,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 3080 от 0"
+            },
+            {
+                "name": "ЗВЕЗДА ао",
+                "ticker": "ZVEZ",
+                "dividend": {
+                    "yield": 7.76,
+                    "frequency": "SUR"
+                },
+                "price": "Последняя доступная цена: 8.04 от 0"
             }
         ],
         "Medium": [],
         "High": []
     },
     "Bonds": {
-        "Low": [],
-        "Medium": [
+        "Low": [
             {
                 "name": "ОФЗ 25085",
-                "price": 1000,
+                "ticker": "SU25085RMFS0",
                 "coupon": {
                     "size": 182,
-                    "frequency": 15000000
-                }
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2025-09-24",
+                "price": "Последняя доступная цена: 0 от 0"
             },
             {
                 "name": "ОФЗ 26207",
-                "price": 1000,
+                "ticker": "SU26207RMFS9",
                 "coupon": {
                     "size": 182,
-                    "frequency": 450000000
-                }
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2027-02-03",
+                "price": "Последняя доступная цена: 0 от 0"
             },
             {
                 "name": "ОФЗ 26212",
-                "price": 1000,
+                "ticker": "SU26212RMFS9",
                 "coupon": {
                     "size": 182,
-                    "frequency": 358927588
-                }
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2028-01-19",
+                "price": "Последняя доступная цена: 0.006 от 0"
             },
             {
                 "name": "ОФЗ 26218",
-                "price": 1000,
+                "ticker": "SU26218RMFS6",
                 "coupon": {
                     "size": 182,
-                    "frequency": 250000000
-                }
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2031-09-17",
+                "price": "Последняя доступная цена: -0.076 от 0"
             },
             {
                 "name": "ОФЗ 26219",
-                "price": 1000,
+                "ticker": "SU26219RMFS4",
                 "coupon": {
                     "size": 182,
-                    "frequency": 450000000
-                }
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2026-09-16",
+                "price": "Последняя доступная цена: 0 от 0"
             },
             {
                 "name": "ОФЗ 26221",
-                "price": 1000,
+                "ticker": "SU26221RMFS0",
                 "coupon": {
                     "size": 182,
-                    "frequency": 350000000
-                }
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2033-03-23",
+                "price": "Последняя доступная цена: -0.072 от 0"
             },
             {
                 "name": "ОФЗ 26224",
-                "price": 1000,
+                "ticker": "SU26224RMFS4",
                 "coupon": {
                     "size": 182,
-                    "frequency": 350000000
-                }
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2029-05-23",
+                "price": "Последняя доступная цена: -0.26 от 0"
             },
             {
                 "name": "ОФЗ 26225",
-                "price": 1000,
+                "ticker": "SU26225RMFS1",
                 "coupon": {
                     "size": 182,
-                    "frequency": 350000000
-                }
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2034-05-10",
+                "price": "Последняя доступная цена: 0 от 0"
             },
             {
                 "name": "ОФЗ 26226",
-                "price": 1000,
+                "ticker": "SU26226RMFS9",
                 "coupon": {
                     "size": 182,
-                    "frequency": 450000000
-                }
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2026-10-07",
+                "price": "Последняя доступная цена: 0 от 0"
             },
             {
                 "name": "ОФЗ 26228",
-                "price": 1000,
+                "ticker": "SU26228RMFS5",
                 "coupon": {
                     "size": 182,
-                    "frequency": 450000000
-                }
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2030-04-10",
+                "price": "Последняя доступная цена: 0.282 от 0"
+            },
+            {
+                "name": "ОФЗ 26229",
+                "ticker": "SU26229RMFS3",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2025-11-12",
+                "price": "Последняя доступная цена: -0.003 от 0"
+            },
+            {
+                "name": "ОФЗ 26230",
+                "ticker": "SU26230RMFS1",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2039-03-16",
+                "price": "Последняя доступная цена: 0.052 от 0"
+            },
+            {
+                "name": "ОФЗ 26231",
+                "ticker": "SU26231RMFS9",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2044-07-20",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 26232",
+                "ticker": "SU26232RMFS7",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2027-10-06",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 26233",
+                "ticker": "SU26233RMFS5",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2035-07-18",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 26234",
+                "ticker": "SU26234RMFS3",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2025-07-16",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 26235",
+                "ticker": "SU26235RMFS0",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2031-03-12",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 26236",
+                "ticker": "SU26236RMFS8",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2028-05-17",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 26237",
+                "ticker": "SU26237RMFS6",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2029-03-14",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 26238",
+                "ticker": "SU26238RMFS4",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2041-05-15",
+                "price": "Последняя доступная цена: -0.018 от 0"
+            },
+            {
+                "name": "ОФЗ 26239",
+                "ticker": "SU26239RMFS2",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2031-07-23",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 26240",
+                "ticker": "SU26240RMFS0",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2036-07-30",
+                "price": "Последняя доступная цена: -0.064 от 0"
+            },
+            {
+                "name": "ОФЗ 26241",
+                "ticker": "SU26241RMFS8",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2032-11-17",
+                "price": "Последняя доступная цена: -0.001 от 0"
+            },
+            {
+                "name": "ОФЗ 26242",
+                "ticker": "SU26242RMFS6",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2029-08-29",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 26243",
+                "ticker": "SU26243RMFS4",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2038-05-19",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 26244",
+                "ticker": "SU26244RMFS2",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2034-03-15",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 26245",
+                "ticker": "SU26245RMFS9",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2035-09-26",
+                "price": "Последняя доступная цена: -0.001 от 0"
+            },
+            {
+                "name": "ОФЗ 26246",
+                "ticker": "SU26246RMFS7",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2036-03-12",
+                "price": "Последняя доступная цена: -0.307 от 0"
+            },
+            {
+                "name": "ОФЗ 26247",
+                "ticker": "SU26247RMFS5",
+                "coupon": {
+                    "size": 196,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2039-05-11",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 26248",
+                "ticker": "SU26248RMFS3",
+                "coupon": {
+                    "size": 203,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2040-05-16",
+                "price": "Последняя доступная цена: 0.001 от 0"
+            },
+            {
+                "name": "ОФЗ 29006",
+                "ticker": "SU29006RMFS2",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2025-01-29",
+                "price": "Последняя доступная цена: -0.001 от 0"
+            },
+            {
+                "name": "ОФЗ 29007",
+                "ticker": "SU29007RMFS0",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2027-03-03",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 29008",
+                "ticker": "SU29008RMFS8",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2029-10-03",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 29009",
+                "ticker": "SU29009RMFS6",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2032-05-05",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 29010",
+                "ticker": "SU29010RMFS4",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2034-12-06",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 29013",
+                "ticker": "SU29013RMFS8",
+                "coupon": {
+                    "size": 91,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2030-09-18",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 29014",
+                "ticker": "SU29014RMFS6",
+                "coupon": {
+                    "size": 91,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2026-03-25",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 29015",
+                "ticker": "SU29015RMFS3",
+                "coupon": {
+                    "size": 91,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2028-10-18",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 29016",
+                "ticker": "SU29016RMFS1",
+                "coupon": {
+                    "size": 91,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2026-12-23",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 29017",
+                "ticker": "SU29017RMFS9",
+                "coupon": {
+                    "size": 91,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2032-08-25",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 29018",
+                "ticker": "SU29018RMFS7",
+                "coupon": {
+                    "size": 91,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2031-11-26",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 29019",
+                "ticker": "SU29019RMFS5",
+                "coupon": {
+                    "size": 91,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2029-07-18",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 29020",
+                "ticker": "SU29020RMFS3",
+                "coupon": {
+                    "size": 91,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2027-09-22",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 29021",
+                "ticker": "SU29021RMFS1",
+                "coupon": {
+                    "size": 91,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2030-11-27",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 29022",
+                "ticker": "SU29022RMFS9",
+                "coupon": {
+                    "size": 91,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2033-07-20",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 29023",
+                "ticker": "SU29023RMFS7",
+                "coupon": {
+                    "size": 91,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2034-08-23",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 29024",
+                "ticker": "SU29024RMFS5",
+                "coupon": {
+                    "size": 91,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2035-04-18",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 29025",
+                "ticker": "SU29025RMFS2",
+                "coupon": {
+                    "size": 91,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2037-08-12",
+                "price": "Последняя доступная цена: -0.479 от 0"
+            },
+            {
+                "name": "ОФЗ 46011",
+                "ticker": "SU46011RMFS1",
+                "coupon": {
+                    "size": 364,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2025-08-20",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 46012",
+                "ticker": "SU46012RMFS9",
+                "coupon": {
+                    "size": 364,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2029-09-05",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 46020",
+                "ticker": "SU46020RMFS2",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2036-02-06",
+                "price": "Последняя доступная цена: 0.002 от 0"
+            },
+            {
+                "name": "ОФЗ 46023",
+                "ticker": "SU46023RMFS6",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2026-07-23",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 52002",
+                "ticker": "SU52002RMFS1",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2028-02-02",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 52003",
+                "ticker": "SU52003RMFS9",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2030-07-17",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 52004",
+                "ticker": "SU52004RMFS7",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2032-03-17",
+                "price": "Последняя доступная цена: 0 от 0"
+            },
+            {
+                "name": "ОФЗ 52005",
+                "ticker": "SU52005RMFS4",
+                "coupon": {
+                    "size": 182,
+                    "frequency_per_year": 1
+                },
+                "maturity_date": "2033-05-11",
+                "price": "Последняя доступная цена: 0.734 от 0"
             }
         ],
+        "Medium": [],
         "High": []
     }
 }
